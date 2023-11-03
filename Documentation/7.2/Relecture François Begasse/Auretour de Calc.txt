@@ -1,0 +1,3 @@
+                   Calc : mettre cpmmentaire pour les auto-filtres
+
+Si vous voulez définir plusieurs autofiltres différents sur une même feuille, il faut définir autant de plages de données."
